@@ -1,0 +1,343 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "company": "IUPUI",
+      "type": 1,
+      "name": "001 VOLKSWAGEN GTI 2007 personal vehicle +",
+      "ref": 26
+    },
+    {
+      "id": 2,
+      "company": "IUPUI",
+      "type": 1,
+      "name": "002 HONDA CIVIC 2011 personal vehicle +",
+      "ref": 27
+    },
+    {
+      "id": 3,
+      "company": "IUPUI",
+      "type": 1,
+      "name": "003 VOLVO SUV 2009 personal vehicle +",
+      "ref": 28
+    },
+    {
+      "id": 4,
+      "company": "IUPUI",
+      "type": 1,
+      "name": "004 VOLKSWAGEN GTI 2010 personal vehicle +",
+      "ref": 29
+    },
+    {
+      "id": 5,
+      "company": "IUPUI",
+      "type": 1,
+      "name": "005 FORD SUV 2003 personal vehicle +",
+      "ref": 30
+    },
+    {
+      "id": 6,
+      "company": "IUPUI",
+      "type": 1,
+      "name": "006 VOLKSWAGEN GTI 2012 personal vehicle +",
+      "ref": 31
+    },
+    {
+      "id": 7,
+      "company": "IUPUI",
+      "type": 2,
+      "name": "119543-0264",
+      "ref": 26
+    },
+    {
+      "id": 8,
+      "company": "IUPUI",
+      "type": 2,
+      "name": "120163-0551",
+      "ref": 27
+    },
+    {
+      "id": 9,
+      "company": "IUPUI",
+      "type": 2,
+      "name": "234567-8901",
+      "ref": 29
+    },
+    {
+      "id": 10,
+      "company": "IUPUI",
+      "type": 2,
+      "name": "345678-9012",
+      "ref": 30
+    },
+    {
+      "id": 11,
+      "company": "IUPUI",
+      "type": 2,
+      "name": "456789-0123",
+      "ref": 31
+    },
+    {
+      "id": 12,
+      "company": "IUPUI",
+      "type": 2,
+      "name": "556677-8899",
+      "ref": 36
+    },
+    {
+      "id": 13,
+      "company": "IUPUI",
+      "type": 2,
+      "name": "667788-9900",
+      "ref": 37
+    },
+    {
+      "id": 14,
+      "company": "IUPUI",
+      "type": 2,
+      "name": "778899-0011",
+      "ref": 38
+    },
+    {
+      "id": 15,
+      "company": "Indiana State",
+      "type": 1,
+      "name": "001 VOLKSWAGEN GTI 2007 personal vehicle +",
+      "ref": 32
+    },
+    {
+      "id": 16,
+      "company": "Indiana State",
+      "type": 1,
+      "name": "002 VOLVO SUV 2009 personal vehicle +",
+      "ref": 33
+    },
+    {
+      "id": 17,
+      "company": "Indiana State",
+      "type": 1,
+      "name": "003 FORD SUV 2003 personal vehicle +",
+      "ref": 34
+    },
+    {
+      "id": 18,
+      "company": "Indiana State",
+      "type": 2,
+      "name": "567890-1234",
+      "ref": 32
+    },
+    {
+      "id": 19,
+      "company": "Indiana State",
+      "type": 2,
+      "name": "678901-2345",
+      "ref": 33
+    },
+    {
+      "id": 20,
+      "company": "Indiana State",
+      "type": 2,
+      "name": "789012-3456",
+      "ref": 34
+    },
+    {
+      "id": 21,
+      "company": "IUB",
+      "type": 1,
+      "name": "001 HONDA CIVIC 2011 personal vehicle +",
+      "ref": 35
+    },
+    {
+      "id": 22,
+      "company": "IUB",
+      "type": 2,
+      "name": "890123-4567",
+      "ref": 35
+    },
+    {
+      "id": 23,
+      "company": "IUPUI",
+      "type": 3,
+      "name": "460 University Blvd, indianapolis, IN 40202",
+      "ref": 39
+    },
+    {
+      "id": 24,
+      "company": "Indiana State",
+      "type": 3,
+      "name": "200 W Washington St, Indianapolis, IN 46204",
+      "ref": 40
+    },
+    {
+      "id": 25,
+      "company": "IUB",
+      "type": 3,
+      "name": "107 S Indiana Ave, Bloomington, IN 47405",
+      "ref": 41
+    },
+    {
+      "company": "IUPUI",
+      "type": 4,
+      "asset": 1,
+      "name": "001 VOLKSWAGEN GTI 2007 personal vehicle +",
+      "device": 1,
+      "number": "119543-0264",
+      "condition": "healthy",
+      "id": 26
+    },
+    {
+      "company": "IUPUI",
+      "type": 4,
+      "asset": 1,
+      "name": "002 HONDA CIVIC 2011 personal vehicle +",
+      "device": 1,
+      "number": "120163-0551",
+      "condition": "healthy",
+      "id": 27
+    },
+    {
+      "company": "IUPUI",
+      "type": 4,
+      "asset": 1,
+      "name": "003 VOLVO SUV 2009 personal vehicle +",
+      "device": 0,
+      "number": "None",
+      "condition": "n/a",
+      "id": 28
+    },
+    {
+      "company": "IUPUI",
+      "type": 4,
+      "asset": 1,
+      "name": "004 VOLKSWAGEN GTI 2007 personal vehicle +",
+      "device": 1,
+      "number": "234567-8901",
+      "condition": "warning",
+      "id": 29
+    },
+    {
+      "company": "IUPUI",
+      "type": 4,
+      "asset": 1,
+      "name": "005 FORD FOCUS 2017 personal vehicle +",
+      "device": 1,
+      "number": "345678-9012",
+      "condition": "healthy",
+      "id": 30
+    },
+    {
+      "company": "IUPUI",
+      "type": 4,
+      "asset": 1,
+      "name": "006 VOLKSWAGEN GTI 2007 personal vehicle +",
+      "device": 1,
+      "number": "456789-0123",
+      "condition": "healthy",
+      "id": 31
+    },
+    {
+      "company": "Indiana State",
+      "type": 4,
+      "asset": 1,
+      "name": "001 VOLKSWAGEN GTI 2007 personal vehicle +",
+      "device": 1,
+      "number": "567890-1234",
+      "condition": "warning",
+      "id": 32
+    },
+    {
+      "company": "Indiana State",
+      "type": 4,
+      "asset": 1,
+      "name": "002 VOLVO SUV 2009 personal vehicle +",
+      "device": 1,
+      "number": "678901-2345",
+      "condition": "healthy",
+      "id": 33
+    },
+    {
+      "company": "Indiana State",
+      "type": 4,
+      "asset": 1,
+      "name": "003 FORD FOCUS 2017 personal vehicle +",
+      "device": 1,
+      "number": "789012-3456",
+      "condition": "warning",
+      "id": 34
+    },
+    {
+      "company": "IUB",
+      "type": 4,
+      "asset": 1,
+      "name": "001 HONDA CIVIC 2011 personal vehicle +",
+      "device": 1,
+      "number": "890123-4567",
+      "condition": "healthy",
+      "id": 35
+    },
+    {
+      "company": "IUPUI",
+      "type": 4,
+      "asset": 0,
+      "name": "None",
+      "device": 1,
+      "number": "556677-8899",
+      "condition": "n/a",
+      "id": 36
+    },
+    {
+      "company": "IUPUI",
+      "type": 4,
+      "asset": 0,
+      "name": "None",
+      "device": 1,
+      "number": "667788-9900",
+      "condition": "n/a",
+      "id": 37
+    },
+    {
+      "company": "IUPUI",
+      "type": 4,
+      "asset": 0,
+      "name": "None",
+      "device": 1,
+      "number": "778899-0011",
+      "condition": "n/a",
+      "id": 38
+    },
+    {
+      "company": "IUPUI",
+      "type": 4,
+      "asset": 0,
+      "name": "460 University Blvd, indianapolis, IN 40202",
+      "device": 0,
+      "number": "317-123-4567",
+      "condition": "Tabitha",
+      "id": 39
+    },
+    {
+      "company": "Indiana State",
+      "type": 4,
+      "asset": 0,
+      "name": "200 W Washington St, Indianapolis, IN 46204",
+      "device": 0,
+      "number": "317-234-5678",
+      "condition": "Tom",
+      "id": 40
+    },
+    {
+      "company": "IUB",
+      "type": 4,
+      "asset": 0,
+      "name": "107 S Indiana Ave, Bloomington, IN 47405",
+      "device": 0,
+      "number": "317-345-6789",
+      "condition": "Jone",
+      "id": 41
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
