@@ -92,6 +92,13 @@
       "ref": 33
     },
     {
+      "id": 21,
+      "company": "IUB",
+      "type": 1,
+      "name": "107 S Indiana Ave, Bloomington, IN 47405",
+      "ref": 35
+    },
+    {
       "id": 22,
       "company": "IUB",
       "type": 2,
@@ -127,6 +134,8 @@
       "device": 1,
       "number": "119543-0264",
       "condition": "healthy",
+      "phone": "317-123-4567",
+      "contact": "Tabitha",
       "id": 26
     },
     {
@@ -137,6 +146,8 @@
       "device": 1,
       "number": "120163-0551",
       "condition": "healthy",
+      "phone": "317-123-4567",
+      "contact": "Tabitha",
       "id": 27
     },
     {
@@ -147,16 +158,20 @@
       "device": 0,
       "number": "None",
       "condition": "n/a",
+      "phone": "317-123-4567",
+      "contact": "Tabitha",
       "id": 28
     },
     {
       "company": "IUPUI",
       "type": 4,
       "asset": 1,
-      "name": "004 VOLKSWAGEN GTI 2007 personal vehicle +",
+      "name": "004 VOLKSWAGEN GTI 2010 personal vehicle +",
       "device": 1,
       "number": "234567-8901",
       "condition": "warning",
+      "phone": "317-123-4567",
+      "contact": "Tabitha",
       "id": 29
     },
     {
@@ -167,6 +182,8 @@
       "device": 1,
       "number": "567890-1234",
       "condition": "warning",
+      "phone": "317-234-5678",
+      "contact": "Tom",
       "id": 32
     },
     {
@@ -177,6 +194,8 @@
       "device": 1,
       "number": "678901-2345",
       "condition": "healthy",
+      "phone": "317-234-5678",
+      "contact": "Tom",
       "id": 33
     },
     {
@@ -187,6 +206,8 @@
       "device": 1,
       "number": "890123-4567",
       "condition": "healthy",
+      "phone": "317-345-6789",
+      "contact": "Jone",
       "id": 35
     },
     {
@@ -197,6 +218,8 @@
       "device": 1,
       "number": "556677-8899",
       "condition": "n/a",
+      "phone": "317-123-4567",
+      "contact": "Tabitha",
       "id": 36
     },
     {
@@ -207,6 +230,8 @@
       "device": 1,
       "number": "778899-0011",
       "condition": "n/a",
+      "phone": "317-123-4567",
+      "contact": "Tabitha",
       "id": 38
     },
     {
