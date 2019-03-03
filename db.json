@@ -137,6 +137,7 @@
       "condition": "healthy",
       "phone": "317-123-4567",
       "contact": "Tabitha",
+      "address": "460 University Blvd, indianapolis, IN 40202",
       "id": 26
     },
     {
@@ -149,6 +150,7 @@
       "condition": "healthy",
       "phone": "317-123-4567",
       "contact": "Tabitha",
+      "address": "460 University Blvd, indianapolis, IN 40202",
       "id": 27
     },
     {
@@ -161,6 +163,7 @@
       "condition": "n/a",
       "phone": "317-123-4567",
       "contact": "Tabitha",
+      "address": "460 University Blvd, indianapolis, IN 40202",
       "id": 28
     },
     {
@@ -173,6 +176,7 @@
       "condition": "warning",
       "phone": "317-123-4567",
       "contact": "Tabitha",
+      "address": "460 University Blvd, indianapolis, IN 40202",
       "id": 29
     },
     {
@@ -186,6 +190,7 @@
       "condition": "warning",
       "phone": "317-234-5678",
       "contact": "Tom",
+      "address": "200 W Washington St, Indianapolis, IN 46204",
       "id": 32
     },
     {
@@ -198,6 +203,7 @@
       "condition": "healthy",
       "phone": "317-234-5678",
       "contact": "Tom",
+      "address": "200 W Washington St, Indianapolis, IN 46204",
       "id": 33
     },
     {
@@ -211,6 +217,7 @@
       "condition": "healthy",
       "phone": "317-345-6789",
       "contact": "Jone",
+      "address": "107 S Indiana Ave, Bloomington, IN 47405",
       "id": 35
     },
     {
@@ -223,6 +230,7 @@
       "condition": "n/a",
       "phone": "317-123-4567",
       "contact": "Tabitha",
+      "address": "460 University Blvd, indianapolis, IN 40202",
       "id": 36
     },
     {
@@ -235,6 +243,7 @@
       "condition": "n/a",
       "phone": "317-123-4567",
       "contact": "Tabitha",
+      "address": "460 University Blvd, indianapolis, IN 40202",
       "id": 38
     },
     {
@@ -245,6 +254,7 @@
       "device": 0,
       "number": "317-123-4567",
       "condition": "Tabitha",
+      "address": "460 University Blvd, indianapolis, IN 40202",
       "id": 39
     },
     {
