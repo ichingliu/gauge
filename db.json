@@ -10,20 +10,20 @@
       "condition": "healthy",
       "phone": "317-123-4567",
       "contact": "Tabitha",
-      "photo": {
-          0: "https://imgur.com/VMX3A5T",
-          1: "https://imgur.com/uEC2rXm",
-          2: "https://imgur.com/WLm7hkn",
-          3: "https://imgur.com/B9J7lPY",
-          4: "https://imgur.com/3OzP6M6",
-          5: "https://imgur.com/hhnpUYg",
-          6: "https://imgur.com/5KyLlF2",
-          7: "https://imgur.com/GwYRO5a",
-          8: "https://imgur.com/3VDzW0l",
-          9: "https://imgur.com/AzZkcNU",
-          10: "https://imgur.com/VVdH7VZ",
-          11: "https://imgur.com/ekSNZz6"
-      },
+      "photo": [
+          "https://imgur.com/VMX3A5T",
+          "https://imgur.com/uEC2rXm",
+          "https://imgur.com/WLm7hkn",
+          "https://imgur.com/B9J7lPY",
+          "https://imgur.com/3OzP6M6",
+          "https://imgur.com/hhnpUYg",
+          "https://imgur.com/5KyLlF2",
+          "https://imgur.com/GwYRO5a",
+          "https://imgur.com/3VDzW0l",
+          "https://imgur.com/AzZkcNU",
+          "https://imgur.com/VVdH7VZ",
+          "https://imgur.com/ekSNZz6"
+      ],
       "id": 1
     },
     {
@@ -35,19 +35,19 @@
       "condition": "warning",
       "phone": "317-123-4567",
       "contact": "Tabitha",
-      "photo": {
-          0: "https://imgur.com/VKrVwrc",
-          1: "https://imgur.com/WY1KYyw",
-          2: "https://imgur.com/6KKAT8Q",
-          3: "https://imgur.com/3wwLuFG",
-          4: "https://imgur.com/gPSsphG",
-          5: "https://imgur.com/Og2JpGI",
-          6: "https://imgur.com/0MRcwvM",
-          7: "https://imgur.com/jGGi2io",
-          8: "https://imgur.com/b3pTzLm",
-          9: "https://imgur.com/0kMTEUn",
-          10: "https://imgur.com/NwU0obQ"
-      },
+      "photo": [
+          "https://imgur.com/VKrVwrc",
+          "https://imgur.com/WY1KYyw",
+          "https://imgur.com/6KKAT8Q",
+          "https://imgur.com/3wwLuFG",
+          "https://imgur.com/gPSsphG",
+          "https://imgur.com/Og2JpGI",
+          "https://imgur.com/0MRcwvM",
+          "https://imgur.com/jGGi2io",
+          "https://imgur.com/b3pTzLm",
+          "https://imgur.com/0kMTEUn",
+          "https://imgur.com/NwU0obQ"
+      ],
       "id": 2
     },
     {
@@ -59,12 +59,12 @@
       "condition": "healthy",
       "phone": "317-123-4567",
       "contact": "Tabitha",
-      "photo": {
-          0: "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_angularfront.jpg",	
-          1: "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_angularrear.jpg",
-          2: "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_sideview.jpg",
-          3: "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_frontview.jpg"
-      },
+      "photo": [
+          "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_angularfront.jpg",	
+          "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_angularrear.jpg",
+          "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_sideview.jpg",
+          "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_frontview.jpg"
+      ],
       "id": 3
     },
     {
@@ -76,12 +76,12 @@
       "condition": "warning",
       "phone": "317-123-4567",
       "contact": "Tabitha",
-      "photo": {
-          0: "https://imgur.com/VMX3A5T",
-          1: "https://imgur.com/WLm7hkn",
-          2: "https://imgur.com/B9J7lPY",
-          3: "https://imgur.com/3OzP6M6"
-      },
+      "photo": [
+          "https://imgur.com/VMX3A5T",
+          "https://imgur.com/WLm7hkn",
+          "https://imgur.com/B9J7lPY",
+          "https://imgur.com/3OzP6M6"
+      ],
       "id": 4
     },
     {
@@ -94,12 +94,12 @@
       "condition": "warning",
       "phone": "317-234-5678",
       "contact": "Tom",
-      "photo": {
-          0: "https://imgur.com/VMX3A5T",
-          1: "https://imgur.com/WLm7hkn",
-          2: "https://imgur.com/B9J7lPY",
-          3: "https://imgur.com/3OzP6M6"
-      },
+      "photo": [
+          "https://imgur.com/VMX3A5T",
+          "https://imgur.com/WLm7hkn",
+          "https://imgur.com/B9J7lPY",
+          "https://imgur.com/3OzP6M6"
+      ],
       "id": 5
     },
     {
@@ -111,12 +111,12 @@
       "condition": "healthy",
       "phone": "317-234-5678",
       "contact": "Tom",
-      "photo": {
-          0: "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_angularfront.jpg",	
-          1: "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_angularrear.jpg",
-          2: "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_sideview.jpg",
-          3: "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_frontview.jpg"
-      },
+      "photo": [
+          "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_angularfront.jpg",	
+          "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_angularrear.jpg",
+          "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_sideview.jpg",
+          "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_frontview.jpg"
+      ],
       "id": 6
     },
     {
@@ -129,12 +129,12 @@
       "condition": "healthy",
       "phone": "317-345-6789",
       "contact": "Jone",
-      "photo": {
-          0: "https://imgur.com/VKrVwrc",
-          1: "https://imgur.com/0MRcwvM",
-          2: "https://imgur.com/b3pTzLm",
-          3: "https://imgur.com/0kMTEUn"
-      },
+      "photo": [
+          "https://imgur.com/VKrVwrc",
+          "https://imgur.com/0MRcwvM",
+          "https://imgur.com/b3pTzLm",
+          "https://imgur.com/0kMTEUn"
+      ],
       "id": 7
     },
     {
