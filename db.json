@@ -1,134 +1,7 @@
 {
   "posts": [
     {
-      "id": 1,
       "company": "IUPUI",
-      "type": 1,
-      "name": "001 VOLKSWAGEN GTI 2007 personal vehicle +",
-      "ref": 26
-    },
-    {
-      "id": 2,
-      "company": "IUPUI",
-      "type": 1,
-      "name": "002 HONDA CIVIC 2011 personal vehicle +",
-      "ref": 27
-    },
-    {
-      "id": 3,
-      "company": "IUPUI",
-      "type": 1,
-      "name": "003 VOLVO SUV 2009 personal vehicle +",
-      "ref": 28
-    },
-    {
-      "id": 4,
-      "company": "IUPUI",
-      "type": 1,
-      "name": "004 VOLKSWAGEN GTI 2010 personal vehicle +",
-      "ref": 29
-    },
-    {
-      "id": 7,
-      "company": "IUPUI",
-      "type": 2,
-      "name": "119543-0264",
-      "ref": 26
-    },
-    {
-      "id": 8,
-      "company": "IUPUI",
-      "type": 2,
-      "name": "120163-0551",
-      "ref": 27
-    },
-    {
-      "id": 9,
-      "company": "IUPUI",
-      "type": 2,
-      "name": "234567-8901",
-      "ref": 29
-    },
-    {
-      "id": 12,
-      "company": "IUPUI",
-      "type": 2,
-      "name": "556677-8899",
-      "ref": 36
-    },
-    {
-      "id": 14,
-      "company": "IUPUI",
-      "type": 2,
-      "name": "778899-0011",
-      "ref": 38
-    },
-    {
-      "id": 15,
-      "company": "Indiana State",
-      "type": 1,
-      "name": "001 VOLKSWAGEN GTI 2007 personal vehicle +",
-      "ref": 32
-    },
-    {
-      "id": 16,
-      "company": "Indiana State",
-      "type": 1,
-      "name": "002 VOLVO SUV 2009 personal vehicle +",
-      "ref": 33
-    },
-    {
-      "id": 18,
-      "company": "Indiana State",
-      "type": 2,
-      "name": "567890-1234",
-      "ref": 32
-    },
-    {
-      "id": 19,
-      "company": "Indiana State",
-      "type": 2,
-      "name": "678901-2345",
-      "ref": 33
-    },
-    {
-      "id": 21,
-      "company": "IUB",
-      "type": 1,
-      "name": "107 S Indiana Ave, Bloomington, IN 47405",
-      "ref": 35
-    },
-    {
-      "id": 22,
-      "company": "IUB",
-      "type": 2,
-      "name": "890123-4567",
-      "ref": 35
-    },
-    {
-      "id": 23,
-      "company": "IUPUI",
-      "type": 3,
-      "name": "460 University Blvd, indianapolis, IN 40202",
-      "ref": 39
-    },
-    {
-      "id": 24,
-      "company": "Indiana State",
-      "type": 3,
-      "name": "200 W Washington St, Indianapolis, IN 46204",
-      "ref": 40
-    },
-    {
-      "id": 25,
-      "company": "IUB",
-      "type": 3,
-      "name": "107 S Indiana Ave, Bloomington, IN 47405",
-      "ref": 41
-    },
-    {
-      "company": "IUPUI",
-      "type": 4,
       "asset": 1,
       "name": "001 VOLKSWAGEN GTI 2007 personal vehicle +",
       "device": 1,
@@ -137,38 +10,65 @@
       "condition": "healthy",
       "phone": "317-123-4567",
       "contact": "Tabitha",
-      "address": "460 University Blvd, indianapolis, IN 40202",
-      "id": 26
+      "photo": {
+          0: "https://imgur.com/VMX3A5T",
+          1: "https://imgur.com/uEC2rXm",
+          2: "https://imgur.com/WLm7hkn",
+          3: "https://imgur.com/B9J7lPY",
+          4: "https://imgur.com/3OzP6M6",
+          5: "https://imgur.com/hhnpUYg",
+          6: "https://imgur.com/5KyLlF2",
+          7: "https://imgur.com/GwYRO5a",
+          8: "https://imgur.com/3VDzW0l",
+          9: "https://imgur.com/AzZkcNU",
+          10: "https://imgur.com/VVdH7VZ",
+          11: "https://imgur.com/ekSNZz6"
+      },
+      "id": 1
     },
     {
       "company": "IUPUI",
-      "type": 4,
       "asset": 1,
       "name": "002 HONDA CIVIC 2011 personal vehicle +",
       "device": 1,
       "number": "120163-0551",
-      "condition": "healthy",
+      "condition": "warning",
       "phone": "317-123-4567",
       "contact": "Tabitha",
-      "address": "460 University Blvd, indianapolis, IN 40202",
-      "id": 27
+      "photo": {
+          0: "https://imgur.com/VKrVwrc",
+          1: "https://imgur.com/WY1KYyw",
+          2: "https://imgur.com/6KKAT8Q",
+          3: "https://imgur.com/3wwLuFG",
+          4: "https://imgur.com/gPSsphG",
+          5: "https://imgur.com/Og2JpGI",
+          6: "https://imgur.com/0MRcwvM",
+          7: "https://imgur.com/jGGi2io",
+          8: "https://imgur.com/b3pTzLm",
+          9: "https://imgur.com/0kMTEUn",
+          10: "https://imgur.com/NwU0obQ"
+      },
+      "id": 2
     },
     {
       "company": "IUPUI",
-      "type": 4,
       "asset": 1,
       "name": "003 VOLVO SUV 2009 personal vehicle +",
       "device": 0,
       "number": "None",
-      "condition": "n/a",
+      "condition": "healthy",
       "phone": "317-123-4567",
       "contact": "Tabitha",
-      "address": "460 University Blvd, indianapolis, IN 40202",
-      "id": 28
+      "photo": {
+          0: "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_angularfront.jpg",	
+          1: "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_angularrear.jpg",
+          2: "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_sideview.jpg",
+          3: "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_frontview.jpg"
+      },
+      "id": 3
     },
     {
       "company": "IUPUI",
-      "type": 4,
       "asset": 1,
       "name": "004 VOLKSWAGEN GTI 2010 personal vehicle +",
       "device": 1,
@@ -176,12 +76,16 @@
       "condition": "warning",
       "phone": "317-123-4567",
       "contact": "Tabitha",
-      "address": "460 University Blvd, indianapolis, IN 40202",
-      "id": 29
+      "photo": {
+          0: "https://imgur.com/VMX3A5T",
+          1: "https://imgur.com/WLm7hkn",
+          2: "https://imgur.com/B9J7lPY",
+          3: "https://imgur.com/3OzP6M6"
+      },
+      "id": 4
     },
     {
       "company": "Indiana State",
-      "type": 4,
       "asset": 1,
       "name": "001 VOLKSWAGEN GTI 2007 personal vehicle +",
       "device": 1,
@@ -190,12 +94,16 @@
       "condition": "warning",
       "phone": "317-234-5678",
       "contact": "Tom",
-      "address": "200 W Washington St, Indianapolis, IN 46204",
-      "id": 32
+      "photo": {
+          0: "https://imgur.com/VMX3A5T",
+          1: "https://imgur.com/WLm7hkn",
+          2: "https://imgur.com/B9J7lPY",
+          3: "https://imgur.com/3OzP6M6"
+      },
+      "id": 5
     },
     {
       "company": "Indiana State",
-      "type": 4,
       "asset": 1,
       "name": "002 VOLVO SUV 2009 personal vehicle +",
       "device": 1,
@@ -203,12 +111,16 @@
       "condition": "healthy",
       "phone": "317-234-5678",
       "contact": "Tom",
-      "address": "200 W Washington St, Indianapolis, IN 46204",
-      "id": 33
+      "photo": {
+          0: "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_angularfront.jpg",	
+          1: "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_angularrear.jpg",
+          2: "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_sideview.jpg",
+          3: "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_frontview.jpg"
+      },
+      "id": 6
     },
     {
       "company": "IUB",
-      "type": 4,
       "asset": 1,
       "name": "001 HONDA CIVIC 2011 personal vehicle +",
       "device": 1,
@@ -217,65 +129,101 @@
       "condition": "healthy",
       "phone": "317-345-6789",
       "contact": "Jone",
-      "address": "107 S Indiana Ave, Bloomington, IN 47405",
-      "id": 35
+      "photo": {
+          0: "https://imgur.com/VKrVwrc",
+          1: "https://imgur.com/0MRcwvM",
+          2: "https://imgur.com/b3pTzLm",
+          3: "https://imgur.com/0kMTEUn"
+      },
+      "id": 7
     },
     {
       "company": "IUPUI",
-      "type": 4,
       "asset": 0,
-      "name": "None",
+      "name": "healthy",
       "device": 1,
       "number": "556677-8899",
-      "condition": "n/a",
+      "condition": "healthy",
       "phone": "317-123-4567",
       "contact": "Tabitha",
-      "address": "460 University Blvd, indianapolis, IN 40202",
-      "id": 36
+      "id": 8
     },
     {
       "company": "IUPUI",
-      "type": 4,
       "asset": 0,
-      "name": "None",
+      "name": "healthy",
       "device": 1,
       "number": "778899-0011",
-      "condition": "n/a",
+      "condition": "warning",
       "phone": "317-123-4567",
       "contact": "Tabitha",
-      "address": "460 University Blvd, indianapolis, IN 40202",
-      "id": 38
+      "id": 9
     },
     {
       "company": "IUPUI",
-      "type": 4,
-      "asset": 0,
-      "name": "460 University Blvd, indianapolis, IN 40202",
+      "asset": 1,
+      "name": "005 VOLKSWAGEN GTI 2007 personal vehicle +",
       "device": 0,
-      "number": "317-123-4567",
-      "condition": "Tabitha",
-      "address": "460 University Blvd, indianapolis, IN 40202",
-      "id": 39
+      "number": "None",
+      "condition": "healthy",
+      "phone": "317-123-4567",
+      "contact": "Tabitha",
+      "id": 10
+    },
+    {
+      "company": "IUPUI",
+      "asset": 1,
+      "name": "005 VOLKSWAGEN GTI 2007 personal vehicle +",
+      "device": 0,
+      "number": "None",
+      "condition": "healthy",
+      "phone": "317-123-4567",
+      "contact": "Tabitha",
+      "id": 11
+    },
+    {
+      "company": "IUPUI",
+      "asset": 0,
+      "name": "healthy",
+      "device": 1,
+      "number": "889900-1122",
+      "condition": "warning",
+      "phone": "317-123-4567",
+      "contact": "Tabitha",
+      "id": 12
+    },
+    {
+      "company": "IUPUI",
+      "asset": 0,
+      "name": "healthy",
+      "device": 1,
+      "number": "990011-2233",
+      "condition": "warning",
+      "phone": "317-123-4567",
+      "contact": "Tabitha",
+      "id": 13
     },
     {
       "company": "Indiana State",
-      "type": 4,
-      "asset": 0,
-      "name": "200 W Washington St, Indianapolis, IN 46204",
+      "asset": 1,
+      "name": "001 VOLKSWAGEN GTI 2007 personal vehicle +",
       "device": 0,
-      "number": "317-234-5678",
-      "condition": "Tom",
-      "id": 40
+      "number": "None",
+      "condition": "warning",
+      "phone": "317-234-5678",
+      "contact": "Tom",
+      "id": 14
     },
     {
       "company": "IUB",
-      "type": 4,
       "asset": 0,
-      "name": "107 S Indiana Ave, Bloomington, IN 47405",
-      "device": 0,
-      "number": "317-345-6789",
-      "condition": "Jone",
-      "id": 41
+      "name": "None",
+      "device": 1,
+      "number": "890123-4567",
+      "condition": "healthy",
+      "phone": "317-345-6789",
+      "contact": "Jone",
+      "id": 15
     }
   ],
   "comments": [],
