@@ -11,18 +11,18 @@
       "phone": "317-123-4567",
       "contact": "Tabitha",
       "photo": [
-          "https://imgur.com/VMX3A5T",
-          "https://imgur.com/uEC2rXm",
-          "https://imgur.com/WLm7hkn",
-          "https://imgur.com/B9J7lPY",
-          "https://imgur.com/3OzP6M6",
-          "https://imgur.com/hhnpUYg",
-          "https://imgur.com/5KyLlF2",
-          "https://imgur.com/GwYRO5a",
-          "https://imgur.com/3VDzW0l",
-          "https://imgur.com/AzZkcNU",
-          "https://imgur.com/VVdH7VZ",
-          "https://imgur.com/ekSNZz6"
+          "https://i.imgur.com/VMX3A5T.jpg",
+          "https://i.imgur.com/uEC2rXm.jpg",
+          "https://i.imgur.com/WLm7hkn.jpg",
+          "https://i.imgur.com/B9J7lPY.jpg",
+          "https://i.imgur.com/3OzP6M6.jpg",
+          "https://i.imgur.com/hhnpUYg.jpg",
+          "https://i.imgur.com/5KyLlF2.jpg",
+          "https://i.imgur.com/GwYRO5a.jpg",
+          "https://i.imgur.com/3VDzW0l.jpg",
+          "https://i.imgur.com/AzZkcNU.jpg",
+          "https://i.imgur.com/VVdH7VZ.jpg",
+          "https://i.imgur.com/ekSNZz6.jpg"
       ],
       "id": 1
     },
@@ -36,17 +36,17 @@
       "phone": "317-123-4567",
       "contact": "Tabitha",
       "photo": [
-          "https://imgur.com/VKrVwrc",
-          "https://imgur.com/WY1KYyw",
-          "https://imgur.com/6KKAT8Q",
-          "https://imgur.com/3wwLuFG",
-          "https://imgur.com/gPSsphG",
-          "https://imgur.com/Og2JpGI",
-          "https://imgur.com/0MRcwvM",
-          "https://imgur.com/jGGi2io",
-          "https://imgur.com/b3pTzLm",
-          "https://imgur.com/0kMTEUn",
-          "https://imgur.com/NwU0obQ"
+          "https://i.imgur.com/VKrVwrc.jpg",
+          "https://i.imgur.com/WY1KYyw.jpg",
+          "https://i.imgur.com/6KKAT8Q.jpg",
+          "https://i.imgur.com/3wwLuFG.jpg",
+          "https://i.imgur.com/gPSsphG.jpg",
+          "https://i.imgur.com/Og2JpGI.jpg",
+          "https://i.imgur.com/0MRcwvM.jpg",
+          "https://i.imgur.com/jGGi2io.jpg",
+          "https://i.imgur.com/b3pTzLm.jpg",
+          "https://i.imgur.com/0kMTEUn.jpg",
+          "https://i.imgur.com/NwU0obQ.jpg"
       ],
       "id": 2
     },
@@ -77,10 +77,10 @@
       "phone": "317-123-4567",
       "contact": "Tabitha",
       "photo": [
-          "https://imgur.com/VMX3A5T",
-          "https://imgur.com/WLm7hkn",
-          "https://imgur.com/B9J7lPY",
-          "https://imgur.com/3OzP6M6"
+          "https://i.imgur.com/VMX3A5T.jpg",
+          "https://i.imgur.com/WLm7hkn.jpg",
+          "https://i.imgur.com/B9J7lPY.jpg",
+          "https://i.imgur.com/3OzP6M6.jpg"
       ],
       "id": 4
     },
@@ -95,10 +95,10 @@
       "phone": "317-234-5678",
       "contact": "Tom",
       "photo": [
-          "https://imgur.com/VMX3A5T",
-          "https://imgur.com/WLm7hkn",
-          "https://imgur.com/B9J7lPY",
-          "https://imgur.com/3OzP6M6"
+          "https://i.imgur.com/VMX3A5T.jpg",
+          "https://i.imgur.com/WLm7hkn.jpg",
+          "https://i.imgur.com/B9J7lPY.jpg",
+          "https://i.imgur.com/3OzP6M6.jpg"
       ],
       "id": 5
     },
@@ -130,10 +130,10 @@
       "phone": "317-345-6789",
       "contact": "Jone",
       "photo": [
-          "https://imgur.com/VKrVwrc",
-          "https://imgur.com/0MRcwvM",
-          "https://imgur.com/b3pTzLm",
-          "https://imgur.com/0kMTEUn"
+          "https://i.imgur.com/VKrVwrc.jpg",
+          "https://i.imgur.com/0MRcwvM.jpg",
+          "https://i.imgur.com/b3pTzLm.jpg",
+          "https://i.imgur.com/0kMTEUn.jpg"
       ],
       "id": 7
     },
