@@ -10,6 +10,7 @@
       "condition": "healthy",
       "phone": "317-123-4567",
       "contact": "Tabitha",
+      "address": "460 University Blvd, indianapolis, IN 40202",
       "photo": [
           "https://i.imgur.com/VMX3A5T.jpg",
           "https://i.imgur.com/uEC2rXm.jpg",
@@ -35,6 +36,7 @@
       "condition": "warning",
       "phone": "317-123-4567",
       "contact": "Tabitha",
+      "address": "460 University Blvd, indianapolis, IN 40202",
       "photo": [
           "https://i.imgur.com/VKrVwrc.jpg",
           "https://i.imgur.com/WY1KYyw.jpg",
@@ -59,6 +61,7 @@
       "condition": "healthy",
       "phone": "317-123-4567",
       "contact": "Tabitha",
+      "address": "460 University Blvd, indianapolis, IN 40202",
       "photo": [
           "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_angularfront.jpg",	
           "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_angularrear.jpg",
@@ -76,6 +79,7 @@
       "condition": "warning",
       "phone": "317-123-4567",
       "contact": "Tabitha",
+      "address": "460 University Blvd, indianapolis, IN 40202",
       "photo": [
           "https://i.imgur.com/VMX3A5T.jpg",
           "https://i.imgur.com/WLm7hkn.jpg",
@@ -94,6 +98,7 @@
       "condition": "warning",
       "phone": "317-234-5678",
       "contact": "Tom",
+      "address": "200 W Washington St, Indianapolis, IN 46204",
       "photo": [
           "https://i.imgur.com/VMX3A5T.jpg",
           "https://i.imgur.com/WLm7hkn.jpg",
@@ -111,6 +116,7 @@
       "condition": "healthy",
       "phone": "317-234-5678",
       "contact": "Tom",
+      "address": "200 W Washington St, Indianapolis, IN 46204",
       "photo": [
           "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_angularfront.jpg",	
           "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_angularrear.jpg",
@@ -129,6 +135,7 @@
       "condition": "healthy",
       "phone": "317-345-6789",
       "contact": "Jone",
+      "address": "107 S Indiana Ave, Bloomington, IN 47405",
       "photo": [
           "https://i.imgur.com/VKrVwrc.jpg",
           "https://i.imgur.com/0MRcwvM.jpg",
@@ -146,6 +153,7 @@
       "condition": "healthy",
       "phone": "317-123-4567",
       "contact": "Tabitha",
+      "address": "460 University Blvd, indianapolis, IN 40202",
       "id": 8
     },
     {
@@ -157,6 +165,7 @@
       "condition": "warning",
       "phone": "317-123-4567",
       "contact": "Tabitha",
+      "address": "460 University Blvd, indianapolis, IN 40202",
       "id": 9
     },
     {
@@ -168,6 +177,7 @@
       "condition": "healthy",
       "phone": "317-123-4567",
       "contact": "Tabitha",
+      "address": "460 University Blvd, indianapolis, IN 40202",
       "id": 10
     },
     {
@@ -179,6 +189,7 @@
       "condition": "healthy",
       "phone": "317-123-4567",
       "contact": "Tabitha",
+      "address": "460 University Blvd, indianapolis, IN 40202",
       "id": 11
     },
     {
@@ -190,6 +201,7 @@
       "condition": "warning",
       "phone": "317-123-4567",
       "contact": "Tabitha",
+      "address": "460 University Blvd, indianapolis, IN 40202",
       "id": 12
     },
     {
@@ -201,6 +213,7 @@
       "condition": "warning",
       "phone": "317-123-4567",
       "contact": "Tabitha",
+      "address": "460 University Blvd, indianapolis, IN 40202",
       "id": 13
     },
     {
@@ -212,6 +225,7 @@
       "condition": "warning",
       "phone": "317-234-5678",
       "contact": "Tom",
+      "address": "200 W Washington St, Indianapolis, IN 46204",
       "id": 14
     },
     {
@@ -223,6 +237,7 @@
       "condition": "healthy",
       "phone": "317-345-6789",
       "contact": "Jone",
+      "address": "107 S Indiana Ave, Bloomington, IN 47405",
       "id": 15
     }
   ],
