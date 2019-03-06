@@ -5,13 +5,9 @@
       "asset": 1,
       "name": "001 VOLKSWAGEN GTI 2007 personal vehicle +",
       "device": 1,
-      "com": 1,
       "number": "119543-0264",
       "condition": "healthy",
-      "phone": "317-123-4567",
-      "contact": "Tabitha",
-      "address": "460 University Blvd, indianapolis, IN 40202",
-      "compho": "https://i.imgur.com/gD6jYeO.png",
+      "ref": 16,
       "photo": [
           "https://i.imgur.com/VMX3A5T.jpg",
           "https://i.imgur.com/uEC2rXm.jpg",
@@ -35,10 +31,7 @@
       "device": 1,
       "number": "120163-0551",
       "condition": "warning",
-      "phone": "317-123-4567",
-      "contact": "Tabitha",
-      "address": "460 University Blvd, indianapolis, IN 40202",
-      "compho": "https://i.imgur.com/gD6jYeO.png",
+      "ref": 16,
       "photo": [
           "https://i.imgur.com/VKrVwrc.jpg",
           "https://i.imgur.com/WY1KYyw.jpg",
@@ -61,10 +54,7 @@
       "device": 0,
       "number": "None",
       "condition": "healthy",
-      "phone": "317-123-4567",
-      "contact": "Tabitha",
-      "address": "460 University Blvd, indianapolis, IN 40202",
-      "compho": "https://i.imgur.com/gD6jYeO.png",
+      "ref": 16,
       "photo": [
           "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_angularfront.jpg",	
           "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_angularrear.jpg",
@@ -80,10 +70,7 @@
       "device": 1,
       "number": "234567-8901",
       "condition": "warning",
-      "phone": "317-123-4567",
-      "contact": "Tabitha",
-      "address": "460 University Blvd, indianapolis, IN 40202",
-      "compho": "https://i.imgur.com/gD6jYeO.png",
+      "ref": 16,
       "photo": [
           "https://i.imgur.com/VMX3A5T.jpg",
           "https://i.imgur.com/WLm7hkn.jpg",
@@ -100,10 +87,7 @@
       "com": 1,
       "number": "567890-1234",
       "condition": "warning",
-      "phone": "317-234-5678",
-      "contact": "Tom",
-      "address": "200 W Washington St, Indianapolis, IN 46204",
-      "compho": "https://i.imgur.com/p4AJVux.jpg",
+      "ref": 18,
       "photo": [
           "https://i.imgur.com/VMX3A5T.jpg",
           "https://i.imgur.com/WLm7hkn.jpg",
@@ -119,10 +103,7 @@
       "device": 1,
       "number": "678901-2345",
       "condition": "healthy",
-      "phone": "317-234-5678",
-      "contact": "Tom",
-      "address": "200 W Washington St, Indianapolis, IN 46204",
-      "compho": "https://i.imgur.com/p4AJVux.jpg",
+      "ref": 18,
       "photo": [
           "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_angularfront.jpg",	
           "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_angularrear.jpg",
@@ -139,10 +120,7 @@
       "com": 1,
       "number": "890123-4567",
       "condition": "healthy",
-      "phone": "317-345-6789",
-      "contact": "Jone",
-      "address": "107 S Indiana Ave, Bloomington, IN 47405",
-      "compho": "https://i.imgur.com/NMhfr0p.png",
+      "ref": 17,
       "photo": [
           "https://i.imgur.com/VKrVwrc.jpg",
           "https://i.imgur.com/0MRcwvM.jpg",
@@ -158,10 +136,7 @@
       "device": 1,
       "number": "556677-8899",
       "condition": "healthy",
-      "phone": "317-123-4567",
-      "contact": "Tabitha",
-      "address": "460 University Blvd, indianapolis, IN 40202",
-      "compho": "https://i.imgur.com/gD6jYeO.png",
+      "ref": 16,
       "id": 8
     },
     {
@@ -171,10 +146,7 @@
       "device": 1,
       "number": "778899-0011",
       "condition": "warning",
-      "phone": "317-123-4567",
-      "contact": "Tabitha",
-      "address": "460 University Blvd, indianapolis, IN 40202",
-      "compho": "https://i.imgur.com/gD6jYeO.png",
+      "ref": 16,
       "id": 9
     },
     {
@@ -184,10 +156,7 @@
       "device": 0,
       "number": "None",
       "condition": "healthy",
-      "phone": "317-123-4567",
-      "contact": "Tabitha",
-      "address": "460 University Blvd, indianapolis, IN 40202",
-      "compho": "https://i.imgur.com/gD6jYeO.png",
+      "ref": 16,
       "id": 10
     },
     {
@@ -197,10 +166,7 @@
       "device": 0,
       "number": "None",
       "condition": "healthy",
-      "phone": "317-123-4567",
-      "contact": "Tabitha",
-      "address": "460 University Blvd, indianapolis, IN 40202",
-      "compho": "https://i.imgur.com/gD6jYeO.png",
+      "ref": 16,
       "id": 11
     },
     {
@@ -210,10 +176,7 @@
       "device": 1,
       "number": "889900-1122",
       "condition": "warning",
-      "phone": "317-123-4567",
-      "contact": "Tabitha",
-      "address": "460 University Blvd, indianapolis, IN 40202",
-      "compho": "https://i.imgur.com/gD6jYeO.png",
+      "ref": 16,
       "id": 12
     },
     {
@@ -223,10 +186,7 @@
       "device": 1,
       "number": "990011-2233",
       "condition": "warning",
-      "phone": "317-123-4567",
-      "contact": "Tabitha",
-      "address": "460 University Blvd, indianapolis, IN 40202",
-      "compho": "https://i.imgur.com/gD6jYeO.png",
+      "ref": 16,
       "id": 13
     },
     {
@@ -236,10 +196,7 @@
       "device": 0,
       "number": "None",
       "condition": "warning",
-      "phone": "317-234-5678",
-      "contact": "Tom",
-      "address": "200 W Washington St, Indianapolis, IN 46204",
-      "compho": "https://i.imgur.com/p4AJVux.jpg",
+      "ref": 18,
       "id": 14
     },
     {
@@ -249,11 +206,35 @@
       "device": 1,
       "number": "890123-4567",
       "condition": "healthy",
+      "ref": 17,
+      "id": 15
+    },
+    {
+      "company": "IUPUI",
+      "com": 1,
+      "address": "460 University Blvd, indianapolis, IN 40202",
+      "phone": "317-123-4567",
+      "contact": "Tabitha",
+      "compho": "https://i.imgur.com/gD6jYeO.png",
+      "id": 16
+    },
+    {
+      "company": "IUB",
+      "com": 1,
+      "address": "107 S Indiana Ave, Bloomington, IN 47405",
       "phone": "317-345-6789",
       "contact": "Jone",
-      "address": "107 S Indiana Ave, Bloomington, IN 47405",
       "compho": "https://i.imgur.com/NMhfr0p.png",
-      "id": 15
+      "id": 17
+    },
+    {
+      "company": "Indiana State",
+      "com": 1,
+      "address": "200 W Washington St, Indianapolis, IN 46204",
+      "phone": "317-234-5678",
+      "contact": "Tom",
+      "compho": "https://i.imgur.com/p4AJVux.jpg",
+      "id": 18
     }
   ],
   "comments": [],
