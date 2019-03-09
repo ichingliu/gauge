@@ -7,6 +7,7 @@
       "device": 1,
       "number": "119543-0264",
       "condition": 0,
+      "distance": "35 ft",
       "ref": 16,
       "photo": [
           "https://i.imgur.com/VMX3A5T.jpg",
@@ -31,6 +32,7 @@
       "device": 1,
       "number": "120163-0551",
       "condition": 2,
+      "distance": "40 ft",
       "ref": 16,
       "photo": [
           "https://i.imgur.com/VKrVwrc.jpg",
@@ -70,6 +72,7 @@
       "device": 1,
       "number": "234567-8901",
       "condition": 1,
+      "distance": "60 ft",
       "ref": 16,
       "photo": [
           "https://i.imgur.com/VMX3A5T.jpg",
@@ -86,6 +89,7 @@
       "device": 1,
       "number": "567890-1234",
       "condition": 1,
+      "distance": "120 ft",
       "ref": 18,
       "photo": [
           "https://i.imgur.com/VMX3A5T.jpg",
@@ -102,6 +106,7 @@
       "device": 1,
       "number": "678901-2345",
       "condition": 0,
+      "distance": "220 ft",
       "ref": 18,
       "photo": [
           "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_angularfront.jpg",	
@@ -118,6 +123,7 @@
       "device": 1,
       "number": "890123-4567",
       "condition": 0,
+      "distance": "350 ft",
       "ref": 17,
       "photo": [
           "https://i.imgur.com/VKrVwrc.jpg",
@@ -174,6 +180,7 @@
       "device": 1,
       "number": "889900-1122",
       "condition": 1,
+      "distance": "250 ft",
       "ref": 16,
       "id": 12
     },
