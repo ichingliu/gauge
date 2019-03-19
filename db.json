@@ -239,6 +239,26 @@
       "contact": "Tom",
       "compho": "https://i.imgur.com/p4AJVux.jpg",
       "id": 18
+    },
+    {
+      "company": "IUPUI",
+      "asset": 0,
+      "name": "None",
+      "device": 1,
+      "number": "120163-0513",
+      "condition": 0,
+      "ref": 16,
+      "id": 19
+    },
+    {
+      "company": "IUPUI",
+      "asset": 1,
+      "name": "001 2019 Tesla Model S Personal Vehicles +",
+      "device": 0,
+      "number": "None",
+      "condition": 0,
+      "ref": 16,
+      "id": 20
     }
   ],
   "comments": [],
