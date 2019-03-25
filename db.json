@@ -55,7 +55,6 @@
       "name": "003 VOLVO SUV 2009 personal vehicle",
       "device": 0,
       "number": "None",
-      "condition": 0,
       "ref": 16,
       "photo": [
           "https://cars.usnews.com/static/images/Auto/izmo/305885/2009_volvo_xc90_angularfront.jpg",	
@@ -139,7 +138,6 @@
       "name": "None",
       "device": 1,
       "number": "556677-8899",
-      "condition": 0,
       "ref": 16,
       "id": 8
     },
@@ -149,7 +147,6 @@
       "name": "None",
       "device": 1,
       "number": "778899-0011",
-      "condition": 2,
       "ref": 16,
       "id": 9
     },
@@ -159,7 +156,6 @@
       "name": "005 VOLKSWAGEN GTI 2007 personal vehicle",
       "device": 0,
       "number": "None",
-      "condition": 0,
       "ref": 16,
       "id": 10
     },
@@ -169,7 +165,6 @@
       "name": "006 VOLKSWAGEN GTI 2007 personal vehicle",
       "device": 0,
       "number": "None",
-      "condition": 0,
       "ref": 16,
       "id": 11
     },
@@ -179,7 +174,6 @@
       "name": "None",
       "device": 1,
       "number": "889900-1122",
-      "condition": 1,
       "ref": 16,
       "id": 12
     },
@@ -189,7 +183,6 @@
       "name": "None",
       "device": 1,
       "number": "990011-2233",
-      "condition": 2,
       "ref": 16,
       "id": 13
     },
@@ -246,17 +239,15 @@
       "name": "None",
       "device": 1,
       "number": "120163-0513",
-      "condition": 0,
       "ref": 16,
       "id": 19
     },
     {
       "company": "IUPUI",
       "asset": 1,
-      "name": "001 2019 Tesla Model S Personal Vehicles",
+      "name": "2817 Tesla Model S 2019 Personal Vehicles",
       "device": 0,
       "number": "None",
-      "condition": 0,
       "ref": 16,
       "id": 20
     }
